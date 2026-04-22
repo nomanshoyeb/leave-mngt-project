@@ -33,7 +33,7 @@ To run this project locally, you need to configure environment variables for the
 Create a `.env` file inside the `server/` directory and add the following:
 
 ```env
-PORT=5000
+PORT=XXXX
 
 MONGO_URI=your_mongodb_connection_string
 
